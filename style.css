@@ -1,0 +1,35 @@
+*{
+    background-color:orange;
+}
+
+.head{
+    color:darkblue;
+}
+
+#bglime{
+    background-color:lime;
+}
+
+#bglime{
+    color:red;
+}
+
+p{
+    color:white;
+
+}
+
+#para{
+    color:green;
+}
+
+p#para{
+    color:black;
+    font-size:25px;
+}
+
+a{
+    color:red;
+    font-weight:bold;
+    text-decoration:none;
+}
